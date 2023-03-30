@@ -1,0 +1,29 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    width: auto;
+    padding: 20px;
+    border-radius: 10px; 
+    background-image: linear-gradient(rgb(7, 114, 244),rgb(8, 84, 215));
+    box-shadow: -5px -5px 50px rgb(78, 78, 78) ;
+}
+h1 {
+    color: white;
+}
+
+
+input {
+    width: 100%;
+    padding: 8px 0 8px 0;
+    margin: 10px 0 10px 0;
+    border-radius: 5px;
+    border: none;
+}
